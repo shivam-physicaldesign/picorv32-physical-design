@@ -1,0 +1,13 @@
+{
+    "DESIGN_NAME": "picorv32",
+    "VERILOG_FILES": "dir::src/*.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 4.5,
+    "DIE_AREA": "0 0 900 900",
+    "FP_SIZING": "absolute",
+    "PL_TARGET_DENSITY": 0.35,
+    "FP_CORE_UTIL": 35,
+    "SYNTH_STRATEGY": "AREA 0",
+    "RUN_CTS": 1,
+    "GENERATE_FINAL_SUMMARY_REPORT": 1
+}
