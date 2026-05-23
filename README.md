@@ -40,3 +40,5 @@ picorv32 is a production-quality RISC-V RV32IMC processor core by Clifford Wolf,
 
 ## Author
 Shivam Kumar Maurya — B.Tech ECE, VNRVJIET (2022–2026)
+
+## Layout
